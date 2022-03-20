@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "first_name": "Mukul",
+      "last_name": "Rana",
+      "email": "mkrana@gmail.com",
+      "phone": 6360012690,
+      "address": "GokulDhaam",
+      "dob": "1999-01-30"
+    },
+    {
+      "id": 2,
+      "first_name": "Ajay",
+      "last_name": "Kumar",
+      "email": "ajay@gmail.com",
+      "phone": 1234567890,
+      "address": "SunHeights Apts",
+      "dob": "2020-01-22"
+    },
+    {
+      "id": 3,
+      "first_name": "Sam",
+      "last_name": "Front",
+      "email": "sammy@gmail.com",
+      "phone": 4545454545,
+      "address": "Beverly Hills",
+      "dob": "2020-01-10"
+    }
+  ]
